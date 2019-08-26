@@ -122,9 +122,6 @@ the master branch using `git merge`. Merge the `doc-brown` branch first by runni
 ```bash
 git merge doc-brown -m "merge doc brown"
 ```
-=======
-You're going to add both the doc-brown branch and the marty-mcfly branch to the master branch using merge. Merge the `doc-brown` branch first by running `git merge doc-brown -m "merge doc brown"` in the terminal.
->>>>>>> marty-mcfly
 
 Here, we're saying: "Integrate the differences between `master` and `doc-brown`
 _back_ into `master`."
